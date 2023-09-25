@@ -1,0 +1,10 @@
+Name;Metal;Credist;Workers;Crystal;NanoStructure
+CC;100;50;200;100;0
+RobotNode;50;50;50;100;50
+PP;10;10;10;10;10
+QQ;100;50;200;100;0
+CrystalBuild;100;100;100;0;0
+TT;100;100;5;100;0
+Fort;100;100;100;100;100
+RobotFactory;100;100;5;100;100
+RobotFerm;100;100;10;100;0

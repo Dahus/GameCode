@@ -1,0 +1,15 @@
+Name;CountOfMoves;Metal;Credist;Workers;Crystal;NanoStructure;predecessorName1;predecessorName2;ID
+Repurposed cutters;2;100;50;0;100;0;null;null;0
+Defensive line;1;200;20;0;30;0;null;null;1
+Jerk motors;10;200;100;0;70;0;Repurposed cutters;null;2
+Strengthening positions 1;4;150;50;0;200;0;Defensive line;null;3
+Rifles;3;130;100;0;70;0;Repurposed cutters;null;4
+Assembly tape;5;200;300;0;85;0;Strengthening positions 1;null;5
+Strengthening positions 2;6;300;200;0;135;50;Strengthening positions 1;Rifles;6
+Ionic blades;7;150;500;0;120;60;Rifles;Jerk motors;7
+Ballistic computer;4;130;700;0;115;100;Assembly tape;Strengthening positions 2;8
+Energy Shields;6;230;400;0;200;15;Strengthening positions 2;Assembly tape;9
+Jet thrust;8;300;1000;0;250;50;Ionic blades;null;10
+Computing power;6;150;800;0;125;80;Ionic blades;null;11
+Missile guidance systems;14;500;1500;0;200;120;Computing power;Ballistic computer;12
+Reactor power system;11;300;1600;0;400;150;Jet thrust;Energy Shields;13

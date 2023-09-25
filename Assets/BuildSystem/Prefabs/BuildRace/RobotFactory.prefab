@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8743142300207051500
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8690370449834143949}
+  - component: {fileID: 2393313577495507640}
+  - component: {fileID: 2393313577495507647}
+  m_Layer: 0
+  m_Name: RobotFactory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8690370449834143949
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8743142300207051500}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1201.9891, y: 402.67447, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2393313577495507640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8743142300207051500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1009da59881206548ac0436c4356c6be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _buildData: {fileID: 11400000, guid: 905e4fad303b0d7488f90c3b8d59f1e9, type: 2}
+  _startObject: {fileID: 451067868390040504, guid: f2308aca43f32064cbd79059efdc9487, type: 3}
+  _life: 0
+  _coefPatency: 0
+  radiusView: 0
+  _factoryUnits: {fileID: 0}
+  _flag: 0
+  _units:
+  - Name: 
+    typeObjProduction: 0
+    Step: -1
+  - Name: 
+    typeObjProduction: 0
+    Step: -1
+  - Name: 
+    typeObjProduction: 0
+    Step: -1
+  - Name: 
+    typeObjProduction: 0
+    Step: -1
+  - Name: 
+    typeObjProduction: 0
+    Step: -1
+  - Name: 
+    typeObjProduction: 0
+    Step: -1
+  _number: 6
+--- !u!114 &2393313577495507647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8743142300207051500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fab23555153e5e40879caa99c5c7f8a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _sprites: []
+  _place: {fileID: 0}
+  _player: {fileID: 0}
+  _currentId: 0
+  _roboticNode: {fileID: 0}

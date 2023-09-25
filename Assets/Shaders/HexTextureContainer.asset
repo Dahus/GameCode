@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c8d6fdb09c75ea4295579c056ca882c, type: 3}
+  m_Name: HexTextureContainer
+  m_EditorClassIdentifier: 
+  MetalForrestTex: {fileID: 2800000, guid: a7a1b883dfd378a459e4e9e35b38e369, type: 3}
+  CrystalValleyTex: {fileID: 2800000, guid: 1daf2aa3796e74347bcfd3697c6adf2b, type: 3}
+  BattlefieldTex: {fileID: 2800000, guid: ca842118e2bb246499ccf0310ccf059a, type: 3}
+  StoneDesertTex: {fileID: 2800000, guid: e453898194100ff47950b0f538353c7f, type: 3}
+  SwampTex: {fileID: 2800000, guid: 56355d98dfca4b84d988fe5ca72bc46c, type: 3}
+  MountainTex: {fileID: 2800000, guid: bdc3f86dc74d3ad44acc5c69ee8abd80, type: 3}
+  RoughTerrainTex: {fileID: 2800000, guid: e44db4146897b2a4396d8ab3c0b833f2, type: 3}
+  PlainTex: {fileID: 2800000, guid: a210e5212be24fb4d9ecd9ba37c90fbe, type: 3}
+  NaturalTrailsTex: {fileID: 2800000, guid: 6fdc4d9409577eb4cbdfc9ca3b4cd613, type: 3}
+  Metal: {fileID: 2800000, guid: 0c0a7e928c7efb645891922bf7da22de, type: 3}
+  EnergyCrystall: {fileID: 2800000, guid: 795dd1e3e2a79734183c91b17c9142b8, type: 3}
+  Wreckage: {fileID: 2800000, guid: 5d2a83a179f46d647b3b1f1261033e34, type: 3}

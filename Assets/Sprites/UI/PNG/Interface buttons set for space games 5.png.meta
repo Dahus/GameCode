@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: 79c6f9176be29d846849feaebab76eac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4306903687976770743
+    second: Interface buttons set for space games 5_0
+  - first:
+      213: -3835110244563435598
+    second: Interface buttons set for space games 5_1
+  - first:
+      213: -2863355861741206915
+    second: Interface buttons set for space games 5_2
+  - first:
+      213: 7956379972109774051
+    second: Interface buttons set for space games 5_3
+  - first:
+      213: -8113390402534326151
+    second: Interface buttons set for space games 5_4
+  - first:
+      213: 6574328159310095793
+    second: Interface buttons set for space games 5_5
+  - first:
+      213: -3285759613014810380
+    second: Interface buttons set for space games 5_6
+  - first:
+      213: -1260059609018477913
+    second: Interface buttons set for space games 5_7
+  - first:
+      213: 7750220558054513024
+    second: Interface buttons set for space games 5_8
+  - first:
+      213: -2413042639796579196
+    second: Interface buttons set for space games 5_9
+  - first:
+      213: -1063733810905435299
+    second: Interface buttons set for space games 5_10
+  - first:
+      213: 2205221978211750807
+    second: Interface buttons set for space games 5_11
+  - first:
+      213: -7932662548169935368
+    second: Interface buttons set for space games 5_12
+  - first:
+      213: 8514055986755396686
+    second: Interface buttons set for space games 5_13
+  - first:
+      213: -5831311509631301298
+    second: Interface buttons set for space games 5_14
+  - first:
+      213: 3040190435024202299
+    second: Interface buttons set for space games 5_15
+  - first:
+      213: -6842189454230885191
+    second: Interface buttons set for space games 5_16
+  - first:
+      213: 5421727644173866961
+    second: Interface buttons set for space games 5_17
+  - first:
+      213: -8048925356711108557
+    second: Interface buttons set for space games 5_18
+  - first:
+      213: -1383438601480794556
+    second: Interface buttons set for space games 5_19
+  - first:
+      213: -8204649641331406168
+    second: Interface buttons set for space games 5_20
+  - first:
+      213: 4795167365843576571
+    second: Interface buttons set for space games 5_21
+  - first:
+      213: -9028471082525743624
+    second: Interface buttons set for space games 5_22
+  - first:
+      213: -4580065861109033443
+    second: Interface buttons set for space games 5_23
+  - first:
+      213: -5468064374133946070
+    second: Interface buttons set for space games 5_24
+  - first:
+      213: 9185699252801619766
+    second: Interface buttons set for space games 5_25
+  - first:
+      213: 5785406669815954600
+    second: Interface buttons set for space games 5_26
+  - first:
+      213: 419605695923224750
+    second: Interface buttons set for space games 5_27
+  - first:
+      213: 8387612799082655830
+    second: Interface buttons set for space games 5_28
+  - first:
+      213: -7942100717105433424
+    second: Interface buttons set for space games 5_29
+  - first:
+      213: -176797752224862439
+    second: Interface buttons set for space games 5_30
+  - first:
+      213: -5214996984827126214
+    second: Interface buttons set for space games 5_31
+  - first:
+      213: -3973548617772118696
+    second: Interface buttons set for space games 5_32
+  - first:
+      213: 3744135617764407988
+    second: Interface buttons set for space games 5_33
+  - first:
+      213: 9187478708930808838
+    second: Interface buttons set for space games 5_34
+  - first:
+      213: -8017427125041674870
+    second: Interface buttons set for space games 5_35
+  - first:
+      213: -5616294999198124359
+    second: Interface buttons set for space games 5_36
+  - first:
+      213: 2202659298937822211
+    second: Interface buttons set for space games 5_37
+  - first:
+      213: 4597249290330228661
+    second: Interface buttons set for space games 5_38
+  - first:
+      213: 8837868674332164102
+    second: Interface buttons set for space games 5_39
+  - first:
+      213: -3749629062560445525
+    second: Interface buttons set for space games 5_40
+  - first:
+      213: -1217007785816717999
+    second: Interface buttons set for space games 5_41
+  - first:
+      213: -1033203869311588766
+    second: Interface buttons set for space games 5_42
+  - first:
+      213: -325947194296431165
+    second: Interface buttons set for space games 5_43
+  - first:
+      213: -6773925612122342225
+    second: Interface buttons set for space games 5_44
+  - first:
+      213: 4675579532068219855
+    second: Interface buttons set for space games 5_45
+  - first:
+      213: -7447273376680686039
+    second: Interface buttons set for space games 5_46
+  - first:
+      213: 4575906302427781723
+    second: Interface buttons set for space games 5_47
+  - first:
+      213: -7388442210952731393
+    second: Interface buttons set for space games 5_48
+  - first:
+      213: -8033024370811933758
+    second: Interface buttons set for space games 5_49
+  - first:
+      213: 7140217525739021176
+    second: Interface buttons set for space games 5_50
+  - first:
+      213: 3718156749822022888
+    second: Interface buttons set for space games 5_51
+  - first:
+      213: 5502989272103538753
+    second: Interface buttons set for space games 5_52
+  - first:
+      213: -5284729130850080553
+    second: Interface buttons set for space games 5_53
+  - first:
+      213: 5530506316285545249
+    second: Interface buttons set for space games 5_54
+  - first:
+      213: -5439363464023628602
+    second: Interface buttons set for space games 5_55
+  - first:
+      213: 1651794883893627448
+    second: Interface buttons set for space games 5_56
+  - first:
+      213: -1379830151238117991
+    second: Interface buttons set for space games 5_57
+  - first:
+      213: -5302193787713303032
+    second: Interface buttons set for space games 5_58
+  - first:
+      213: -4570650081117776808
+    second: Interface buttons set for space games 5_59
+  - first:
+      213: 6421712825042344719
+    second: Interface buttons set for space games 5_60
+  - first:
+      213: 3718235068425654607
+    second: Interface buttons set for space games 5_61
+  - first:
+      213: 4931049472298280896
+    second: Interface buttons set for space games 5_62
+  - first:
+      213: -3532961951730017708
+    second: Interface buttons set for space games 5_63
+  - first:
+      213: 5805602757165100860
+    second: Interface buttons set for space games 5_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3118
+        width: 425
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943235c2aedca34c0800000000000000
+      internalID: -4306903687976770743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3114
+        width: 423
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb5564d83f6cac0800000000000000
+      internalID: -3835110244563435598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_2
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 3114
+        width: 1349
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d720263b3015348d0800000000000000
+      internalID: -2863355861741206915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_3
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 3261
+        width: 81
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eca2af0e6dba6e60800000000000000
+      internalID: 7956379972109774051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_4
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 3261
+        width: 143
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970c0ec5a62776f80800000000000000
+      internalID: -8113390402534326151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_5
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 3261
+        width: 136
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5a68ce0a4bc3b50800000000000000
+      internalID: 6574328159310095793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_6
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 3261
+        width: 142
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f06de86a03a662d0800000000000000
+      internalID: -3285759613014810380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_7
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 3261
+        width: 135
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2d2a0367e538ee0800000000000000
+      internalID: -1260059609018477913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_8
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 3261
+        width: 134
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089d4cdf8805e8b60800000000000000
+      internalID: 7750220558054513024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_9
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 3261
+        width: 140
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484dd030186238ed0800000000000000
+      internalID: -2413042639796579196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_10
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 3263
+        width: 127
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53b8612cbbdc31f0800000000000000
+      internalID: -1063733810905435299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_11
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 3261
+        width: 134
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793123694b58a9e10800000000000000
+      internalID: 2205221978211750807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_12
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3261
+        width: 138
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f53945017589e190800000000000000
+      internalID: -7932662548169935368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_13
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 3055
+        width: 143
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44e7508fc0082670800000000000000
+      internalID: 8514055986755396686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_14
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 3055
+        width: 140
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4987cdd315031fa0800000000000000
+      internalID: -5831311509631301298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_15
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 3055
+        width: 138
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a6821d71de03a20800000000000000
+      internalID: 3040190435024202299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_16
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3055
+        width: 140
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bce4ae51f8ab01a0800000000000000
+      internalID: -6842189454230885191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_17
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 3055
+        width: 132
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d716eb1198dd3b40800000000000000
+      internalID: 5421727644173866961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_18
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 3055
+        width: 131
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a99978097c4090800000000000000
+      internalID: -8048925356711108557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_19
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 3053
+        width: 138
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e8c26fbe90dcce0800000000000000
+      internalID: -1383438601480794556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_20
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 3055
+        width: 138
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aac7ed0f9a332e80800000000000000
+      internalID: -8204649641331406168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_21
+      rect:
+        serializedVersion: 2
+        x: 3790
+        y: 3055
+        width: 36
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6e6a7305bdb8240800000000000000
+      internalID: 4795167365843576571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_22
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 3053
+        width: 103
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5aa25a26d64b280800000000000000
+      internalID: -9028471082525743624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2618
+        width: 425
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16d3b49d565070c0800000000000000
+      internalID: -4580065861109033443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_24
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2612
+        width: 423
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2907ca3c688d14b0800000000000000
+      internalID: -5468064374133946070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_25
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2612
+        width: 1349
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637cfc07dc82a7f70800000000000000
+      internalID: 9185699252801619766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_26
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2858
+        width: 130
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3e8bb6b4e94050800000000000000
+      internalID: 5785406669815954600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_27
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 2858
+        width: 130
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea00c33482db2d500800000000000000
+      internalID: 419605695923224750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_28
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 2858
+        width: 191
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65077dab669c66470800000000000000
+      internalID: 8387612799082655830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_29
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 2858
+        width: 134
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b43e821a7df7c190800000000000000
+      internalID: -7942100717105433424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_30
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 2856
+        width: 161
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fac8d8163eb8df0800000000000000
+      internalID: -176797752224862439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_31
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 2858
+        width: 143
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e55ae5fdb90a7b0800000000000000
+      internalID: -5214996984827126214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_32
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 2856
+        width: 163
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dc2fbb59e1bd8c0800000000000000
+      internalID: -3973548617772118696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_33
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 2858
+        width: 141
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba3cbfc187d5f330800000000000000
+      internalID: 3744135617764407988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_34
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 2852
+        width: 144
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c094b553b708f70800000000000000
+      internalID: 9187478708930808838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_35
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 2657
+        width: 141
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a854f4702806cb090800000000000000
+      internalID: -8017427125041674870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_36
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 2657
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b63ef26479ee02b0800000000000000
+      internalID: -5616294999198124359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_37
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 2657
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c566256fa619e10800000000000000
+      internalID: 2202659298937822211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_38
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2657
+        width: 252
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7cc0e4fd5bccf30800000000000000
+      internalID: 4597249290330228661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_39
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 2657
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6000f19fbba66aa70800000000000000
+      internalID: 8837868674332164102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_40
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 2657
+        width: 145
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab8a96eb34a6fbc0800000000000000
+      internalID: -3749629062560445525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_41
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 2659
+        width: 132
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1558285edd15c1fe0800000000000000
+      internalID: -1217007785816717999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_42
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 2656
+        width: 142
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266af151e8259a1f0800000000000000
+      internalID: -1033203869311588766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_43
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 2656
+        width: 35
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd0d64f0c00a7bf0800000000000000
+      internalID: -325947194296431165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_44
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 2634
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facf68aab8e2ef1a0800000000000000
+      internalID: -6773925612122342225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2123
+        width: 425
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb6308efcef2e040800000000000000
+      internalID: 4675579532068219855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_46
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2117
+        width: 423
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e49bd3258f5a890800000000000000
+      internalID: -7447273376680686039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_47
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2119
+        width: 1349
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5adda1b982e08f30800000000000000
+      internalID: 4575906302427781723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_48
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 2127
+        width: 1349
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff429ac64faf67990800000000000000
+      internalID: -7388442210952731393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1631
+        width: 425
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbe2b145e6f48090800000000000000
+      internalID: -8033024370811933758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_50
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1625
+        width: 423
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87361b85206271360800000000000000
+      internalID: 7140217525739021176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_51
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1625
+        width: 1349
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4dc544ddb899330800000000000000
+      internalID: 3718156749822022888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_52
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 1639
+        width: 1349
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140548e369b8e5c40800000000000000
+      internalID: 5502989272103538753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1145
+        width: 425
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a58deaded8a6b0800000000000000
+      internalID: -5284729130850080553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_54
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1141
+        width: 423
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b014a513e40cc40800000000000000
+      internalID: 5530506316285545249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_55
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1141
+        width: 1349
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c422aa9fbf7384b0800000000000000
+      internalID: -5439363464023628602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_56
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 1141
+        width: 1349
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a894002ba5ce610800000000000000
+      internalID: 1651794883893627448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_57
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 644
+        width: 425
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9951411c9cbd9dce0800000000000000
+      internalID: -1379830151238117991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_58
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 638
+        width: 423
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ec011a7d2da66b0800000000000000
+      internalID: -5302193787713303032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_59
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 640
+        width: 1349
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8545d52b7f9c190c0800000000000000
+      internalID: -4570650081117776808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_60
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 660
+        width: 1349
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b183a6ac18e1950800000000000000
+      internalID: 6421712825042344719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 139
+        width: 425
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4159ec3813d99330800000000000000
+      internalID: 3718235068425654607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_62
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 133
+        width: 423
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c767368e5b9e6440800000000000000
+      internalID: 4931049472298280896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_63
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 133
+        width: 1349
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a5926c2d568fec0800000000000000
+      internalID: -3532961951730017708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface buttons set for space games 5_64
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 160
+        width: 1349
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3faadfb2f4a19050800000000000000
+      internalID: 5805602757165100860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

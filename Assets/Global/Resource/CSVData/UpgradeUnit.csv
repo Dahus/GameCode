@@ -1,0 +1,17 @@
+Name;Metal;Credits;Workers;Crystal;NanoStructure
+DamageWR;25;50;0;25;0
+HealthWR;25;50;0;25;0
+UpgradeWR;25;25;0;25;25
+SpeedWR;25;25;0;50;0
+SpeedDeployd1;25;25;0;25;25
+DamageColoss;25;25;0;25;25
+HealthColoss;25;25;0;25;25
+EnergyColoss;25;25;0;25;25
+DamageTank;25;25;0;25;25
+HealthTank;25;25;0;25;25
+EnergyTank;25;25;0;25;25
+UpgradeTank;25;25;0;25;25
+DamageHOW;25;25;0;25;25
+HealthHOW;25;25;0;25;25
+SpeedHOW;25;25;0;25;25
+UpgradeHOW;25;25;0;25;25

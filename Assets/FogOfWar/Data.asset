@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c8d6fdb09c75ea4295579c056ca882c, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  MetalForrestTex: {fileID: 0}
+  CrystalValleyTex: {fileID: 0}
+  BattlefieldTex: {fileID: 0}
+  StoneDesertTex: {fileID: 0}
+  SwampTex: {fileID: 0}
+  MountainTex: {fileID: 0}
+  RoughTerrainTex: {fileID: 0}
+  PlainTex: {fileID: 0}
+  NaturalTrailsTex: {fileID: 0}
+  Metal: {fileID: 0}
+  EnergyCrystall: {fileID: 0}
+  Wreckage: {fileID: 0}
